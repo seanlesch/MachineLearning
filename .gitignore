@@ -1,0 +1,5 @@
+*.csv
+spambase.data
+spambase.DOCUMENTATION
+spambase.names
+spambase.zip
